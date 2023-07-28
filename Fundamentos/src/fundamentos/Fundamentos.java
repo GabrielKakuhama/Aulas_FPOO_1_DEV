@@ -20,11 +20,7 @@ public class Fundamentos {
     boolean estudando = true;
     double media = 5.5;
     
+    String bairro = new String("Centro");
+        }
     
-
-
-
     }
-    
-    
-}
